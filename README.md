@@ -1,4 +1,4 @@
-# computational_geometry
+# Computational Geometry
 Implementations of various computational geometry tasks
 
 
