@@ -13,3 +13,8 @@ eg:
 For a list with 10 boxes, and following overlapping pairs as per their index
 (1,2),(2,6),(1,5),(7,9),(8,9)
 the dictionary generated shall be as {0:[1,2,5,6],1:[7,8,9]}
+
+# line_intersect_box.py
+
+Given the cordinates of a line segment and a list of boxes,
+determines which boxes have the line segment passing through them
